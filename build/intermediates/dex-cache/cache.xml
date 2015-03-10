@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\classes-0357d3cdabfc1d89d7058140c09a7675071c9f67.jar" />
+    </item>
+    <item
+        jar="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\classes-be275b3ffde7ab2d51054841e089dd1d6b07514e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0977d8a8549af26556981d4d554c57e8abca0522.jar" />
+    </item>
+    <item
+        jar="C:\Users\lfredericks\Desktop\PhotoPlate\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\android-support-v13-e5929553b43ac9755e6c59bea0c463b6e4dcd757.jar" />
+    </item>
+    <item
+        jar="C:\Users\lfredericks\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2824e10121b1df8fd9b54ca69f333bf37466e15.jar" />
+    </item>
+
+</items>

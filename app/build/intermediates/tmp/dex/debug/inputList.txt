@@ -1,0 +1,5 @@
+C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\classes\debug
+C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d2824e10121b1df8fd9b54ca69f333bf37466e15.jar
+C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0977d8a8549af26556981d4d554c57e8abca0522.jar
+C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\classes-be275b3ffde7ab2d51054841e089dd1d6b07514e.jar
+C:\Users\lfredericks\Desktop\PhotoPlate\app\build\intermediates\pre-dexed\debug\classes-0357d3cdabfc1d89d7058140c09a7675071c9f67.jar
